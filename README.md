@@ -8,7 +8,7 @@ Shows internal FastLog logs for **Roblox Studio & Roblox Player**. Utilizes the 
 
 ### Compilation
 - **Compile the binary with g++:**  
-g++ -o flog_monitor main.cpp
+`g++ -o flog_monitor main.cpp`
 
 > **Note:** Ensure you have g++ installed and your environment is set up for Windows development.
 
