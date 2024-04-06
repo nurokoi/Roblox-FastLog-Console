@@ -23,6 +23,10 @@ Shows internal FastLog calls for **Roblox Studio & Roblox Player**. Utilizes the
 
 > **Note:** This tool is specifically designed for the Win32 API and will not function on non-Windows platforms.
 
+### Video Demo
+
+- <video src="https://github.com/nurokoi/Roblox-FastLog-Console/assets/80863301/6b86eda9-2a64-449c-b53a-4f57b2e16824"/>
+
 ---
 
 ## License
