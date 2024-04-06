@@ -1,6 +1,6 @@
 # Roblox-FastLog-Console
 
-Shows internal FastLog logs for **Roblox Studio & Roblox Player**. Utilizes the Win32 API to hook into [`OutputDebugString`](https://learn.microsoft.com/en-us/windows/win32/api/debugapi/nf-debugapi-outputdebugstringa) calls, revealing the internal logs typically used by Roblox engineers for diagnostics within Visual Studio.
+Shows internal FastLog calls for **Roblox Studio & Roblox Player**. Utilizes the Win32 API to hook into [`OutputDebugString`](https://learn.microsoft.com/en-us/windows/win32/api/debugapi/nf-debugapi-outputdebugstringa) calls, revealing the internal logs typically used by Roblox engineers for diagnostics within Visual Studio.
 
 ---
 
